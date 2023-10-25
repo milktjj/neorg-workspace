@@ -7,3 +7,13 @@
 *** canvas s220928 镜像
     git clone http://10.119.7.139/hanzhao/canvas-s220928-release.git # 支持office preview
 
+** 准备工作
+   1. redis
+   2. cassandra
+   3. canvas_rce_api
+   4. mathman
+   5. canvas
+   6. postgres
+
+ ** canvas config 修改
+    - 

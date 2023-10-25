@@ -1,0 +1,5 @@
+* Postgresql备份和恢复
+  - *IP*: /192.168.1.76/ (/10.119.8.52/) 
+  - 目录: /dbbackup
+    *user/password*: root / canvas  zQUHVq3#YA#xhD2c / lms@etc2020t3pa%^&*
+    pg_restore_to_4-237.sh 修改参数
