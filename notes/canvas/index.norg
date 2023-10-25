@@ -1,0 +1,9 @@
+* Canvas重头安装
+** 拉取镜像
+*** rce镜像
+    git clone http://10.119.7.139/hanzhao/canvas_rce_api.git
+*** mathman 镜像
+    git clone http://10.119.7.139/hanzhao/canvas_mathman_sjtuetc.git
+*** canvas s220928 镜像
+    git clone http://10.119.7.139/hanzhao/canvas-s220928-release.git # 支持office preview
+
