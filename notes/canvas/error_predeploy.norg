@@ -3,6 +3,7 @@
   - 20190806214554_add_view_feature_flags_permission_overrides.rb
   - 20191210021541_populate_moderate_user_content_permission.rb
   - 20200826160817_add_block_stranded_to_switchman_shards.rb
+  - 20210604144553_add_flag_auditors_cassandra.rb
 
 * Migrate
   - 20190319200622_populate_final_grade_override_course_setting.rb
